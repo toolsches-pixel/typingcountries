@@ -1,0 +1,16 @@
+is dono file ko such jsx and css ko 
+src/components me rakhna hai 
+src
+ components
+   navaratri.jsx
+   navaratri.css 
+
+
+
+   phir app.jsx me jaake import karna hai agar usme file hoga to usme uncomment karna hai 
+   aur 
+ import NavaratriPopup from './components/NavaratriPopup';// isko app.jsx me import karna ha 
+
+ <BrowserRouter>
+       <NavaratriPopup/>   //isko app.jsx me browserrouter ke niche aur layout ke updar daal dena hai
+      <Layout>
