@@ -14,3 +14,8 @@ src
  <BrowserRouter>
        <NavaratriPopup/>   //isko app.jsx me browserrouter ke niche aur layout ke updar daal dena hai
       <Layout>
+
+
+aur image aur song ko public folder me daal dena hai
+navaratri-song.mp3
+navaratri.jpg
